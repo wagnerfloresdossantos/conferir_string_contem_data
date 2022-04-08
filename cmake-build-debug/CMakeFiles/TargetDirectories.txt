@@ -1,0 +1,3 @@
+/home/wagner/CLionProjects/2022_1/verifica_string_contyem_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wagner/CLionProjects/2022_1/verifica_string_contyem_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wagner/CLionProjects/2022_1/verifica_string_contyem_data/cmake-build-debug/CMakeFiles/verifica_string_contyem_data.dir
